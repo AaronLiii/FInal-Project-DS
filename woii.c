@@ -303,13 +303,13 @@ int main() {
                 getch();
                 break;
             case 6:
-                printf("Thank you... Have a nice day :)\n");
+                printf("Thank you for using TLR Movie Searcher! Have a nice day :)\n");
                 printf("Press enter to continue...");
                 getch();
                 system("cls");
                 break;
             default:
-                printf("Invalid input..!\n");
+                printf("Invalid input!\n");
                 printf("Press enter to continue...");
                 getch();
                 break;
